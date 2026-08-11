@@ -1,0 +1,19 @@
+Enter student name: T.Nikitha vankayalapti
+Enter daily budget: 500
+Enter food expense: 200
+Enter travel expense: 100
+Enter study expense: 100
+Enter other expense: 100
+---------- DAILY EXPENSE REPORT ----------
+
+Student Name      : T.Nikitha vankayalapti
+Daily Budget      : 500.0
+Food Expense      : 200.0
+Travel Expense    : 100.0
+Study Expense     : 100.0
+Other Expense     : 100.0
+Total Expense     : 500.0
+Remaining Amount  : 0.0
+Budget Status     : Budget Fully Used
+
+------------------------------------------

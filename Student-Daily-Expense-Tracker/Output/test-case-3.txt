@@ -1,0 +1,19 @@
+Enter student name: Lahari Priya
+Enter daily budget: 500
+Enter food expense: 300
+Enter travel expense: 100
+Enter study expense: 150
+Enter other expense: 75
+---------- DAILY EXPENSE REPORT ----------
+
+Student Name      : Lahari Priya
+Daily Budget      : 500.0
+Food Expense      : 300.0
+Travel Expense    : 100.0
+Study Expense     : 150.0
+Other Expense     : 75.0
+Total Expense     : 625.0
+Exceeded Amount   : 125.0
+Budget Status     : Budget Exceeded
+
+------------------------------------------

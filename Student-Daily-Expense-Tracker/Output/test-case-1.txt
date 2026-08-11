@@ -1,0 +1,19 @@
+Enter student name: Anamika Bharti
+Enter daily budget: 500
+Enter food expense: 300
+Enter travel expense: 70
+Enter study expense: 50
+Enter other expense: 40
+---------- DAILY EXPENSE REPORT ----------
+
+Student Name      : Anamika Bharti
+Daily Budget      : 500.0
+Food Expense      : 300.0
+Travel Expense    : 70.0
+Study Expense     : 50.0
+Other Expense     : 40.0
+Total Expense     : 460.0
+Remaining Amount  : 40.0
+Budget Status     : Within Budget
+
+------------------------------------------
