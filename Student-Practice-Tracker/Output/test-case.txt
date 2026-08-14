@@ -1,0 +1,70 @@
+                                                                  
+==============================
+     STUDENT PRACTICE TRACKER
+==============================
+Enter Student Name: Anamika Bharti
+Enter Course Name: java
+Enter Completed Topics: 40
+Enter Questions Solved: 45
+
+==============================
+            MENU
+==============================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+Enter your choice: 1
+Student Name : Anamika Bharti
+Course Name : java
+
+==============================
+            MENU
+==============================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+Enter your choice: 2
+Completed Topics : 40
+Questions Solved : 45
+
+==============================
+            MENU
+==============================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+Enter your choice: 3
+Enter New Completed Topics: 5
+Topics updated successfully.
+Total Completed Topics: 45
+
+==============================
+            MENU
+==============================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+Enter your choice: 4
+Enter New Questions Solved: 2
+Questions updated successfully.
+Total Questions Solved: 47
+
+==============================
+            MENU
+==============================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+Enter your choice: 5
+Thank you for using Student Practice Tracker.
+Keep Practicing!
